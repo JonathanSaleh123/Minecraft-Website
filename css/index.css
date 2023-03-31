@@ -1,5 +1,4 @@
-.footer-block-child,
-.social-media-icon {
+.footer-block-child {
   position: absolute;
   height: 100%;
   top: 0;
@@ -11,14 +10,7 @@
   left: 0;
   background-color: var(--color-black);
 }
-.social-media-icon {
-  width: 8.7%;
-  right: 45.65%;
-  left: 45.65%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-}
+
 .copyright-2021,
 .source-code-available {
   position: absolute;
@@ -181,6 +173,8 @@
   overflow: hidden;
   max-height: 100%;
   object-fit: cover;
+  border-radius: 2%;
+  border-style: solid;
 }
 .second-page {
   position: absolute;
