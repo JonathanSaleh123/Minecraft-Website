@@ -1,0 +1,353 @@
+.footer-block-child,
+.social-media-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.footer-block-child {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.social-media-icon {
+  width: 8.7%;
+  right: 45.65%;
+  left: 45.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.copyright-2021,
+.source-code-available {
+  position: absolute;
+  top: 22.47%;
+  left: 86.97%;
+}
+.copyright-2021 {
+  left: 0;
+  text-align: left;
+}
+.footer {
+  position: absolute;
+  height: 35.42%;
+  width: 88.55%;
+  top: 25.38%;
+  right: 5.54%;
+  bottom: 39.2%;
+  left: 5.9%;
+}
+.footer-block {
+  position: absolute;
+  top: 2109.64px;
+  left: 0;
+  width: 1389px;
+  height: 95.99px;
+  color: var(--color-white);
+}
+.third-page-child {
+  position: absolute;
+  height: 95.87%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 4.13%;
+  left: 0;
+  background-color: var(--color-white);
+}
+.project-block-child,
+.project-block-item {
+  position: absolute;
+  right: 0;
+  border-radius: var(--br-xl);
+}
+.project-block-child {
+  height: 99.37%;
+  width: 99.73%;
+  top: 0.63%;
+  bottom: 0;
+  left: 0.27%;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.project-block-item {
+  height: 53.28%;
+  width: 100%;
+  top: 0;
+  bottom: 46.72%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.game,
+.morbi-volutpat-odio {
+  position: absolute;
+  height: 7.82%;
+  width: 79.05%;
+  top: 55.18%;
+  left: 9.81%;
+  display: inline-block;
+}
+.morbi-volutpat-odio {
+  height: 28.54%;
+  width: 85.68%;
+  top: 63.64%;
+  left: 6.9%;
+  font-size: var(--font-size-lg);
+}
+.project-block,
+.project-block1,
+.project-block2 {
+  position: absolute;
+  height: 72.32%;
+  width: 27.18%;
+  top: 16.97%;
+  right: 36.41%;
+  bottom: 10.7%;
+  left: 36.41%;
+}
+.project-block1,
+.project-block2 {
+  top: 16.51%;
+  right: 5.19%;
+  bottom: 11.16%;
+  left: 67.63%;
+}
+.project-block2 {
+  top: 17.28%;
+  right: 67.63%;
+  bottom: 10.4%;
+  left: 5.19%;
+}
+.projects {
+  position: absolute;
+  height: 16.21%;
+  width: 29.27%;
+  top: 4.89%;
+  left: 35.4%;
+  font-size: 38px;
+  display: inline-block;
+}
+.third-page {
+  position: absolute;
+  top: 1480px;
+  left: 0;
+  width: 1387px;
+  height: 654px;
+  font-size: var(--font-size-9xl);
+}
+.second-page-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 1.62%;
+  right: 0;
+  bottom: -1.62%;
+  left: 0;
+  background-color: #f1f1f1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.about-myself,
+.lorem-ipsum-dolor {
+  position: absolute;
+  height: 12.67%;
+  width: 24.8%;
+  top: 19.14%;
+  left: 64.1%;
+  display: inline-block;
+}
+.lorem-ipsum-dolor {
+  height: 61.46%;
+  width: 31.87%;
+  top: 26.68%;
+  left: 59.55%;
+  font-size: var(--font-size-5xl);
+}
+.second-page-item {
+  position: absolute;
+  height: 69.62%;
+  width: 33.02%;
+  top: 16.81%;
+  right: 49.96%;
+  bottom: 13.57%;
+  left: 17.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.second-page {
+  position: absolute;
+  top: 790px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1387px;
+  height: 678px;
+  font-size: var(--font-size-17xl);
+}
+.front-rectangle-child,
+.landing-page-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.landing-page-child {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.front-rectangle-child {
+  border-radius: 30px;
+  background-color: var(--color-gainsboro);
+  opacity: 0.2;
+}
+.hi-welcome-to,
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  display: inline-block;
+}
+.hi-welcome-to {
+  height: 17.76%;
+  width: 76.37%;
+  top: 10.78%;
+  left: 11.81%;
+  font-size: var(--font-size-17xl);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.lorem-ipsum-dolor1 {
+  height: 54.97%;
+  width: 80.38%;
+  top: 34.88%;
+  left: 7.81%;
+}
+.front-rectangle-item {
+  position: absolute;
+  height: 8.46%;
+  width: 26.58%;
+  top: 73.15%;
+  right: 38.82%;
+  bottom: 18.39%;
+  left: 34.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.github {
+  position: absolute;
+  height: 7.19%;
+  width: 22.78%;
+  top: 73.78%;
+  left: 36.5%;
+  text-decoration: underline;
+  display: inline-block;
+}
+.front-rectangle-inner {
+  position: absolute;
+  height: 21.14%;
+  width: 21.1%;
+  top: 80.55%;
+  right: 84.81%;
+  bottom: -1.69%;
+  left: -5.91%;
+  overflow: hidden;
+}
+.front-rectangle {
+  position: absolute;
+  height: 66.53%;
+  width: 34.17%;
+  top: 17.44%;
+  right: 58.9%;
+  bottom: 16.03%;
+  left: 6.92%;
+}
+.landing-page {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  width: 1387px;
+  height: 711px;
+  font-size: var(--font-size-5xl);
+}
+.header-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.libertalia {
+  position: absolute;
+  height: 67.01%;
+  width: 37.92%;
+  top: 26.8%;
+  left: 32.95%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+
+.home,
+.projects1 {
+  height: 31.96%;
+  top: 44.33%;
+  display: inline-block;
+}
+.home {
+  position: absolute;
+  width: 5.26%;
+  left: 2.6%;
+}
+.projects1 {
+  width: 7.35%;
+  left: 13.12%;
+}
+
+.about,
+.header,
+.projects1 {
+  position: absolute;
+}
+.about {
+  height: 31.96%;
+  width: 5.26%;
+  top: 44.33%;
+  left: 7.86%;
+  display: inline-block;
+}
+.header {
+  top: 1px;
+  left: 0;
+  width: 1387px;
+  height: 97px;
+  font-size: var(--font-size-lg);
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2200px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-minecraft);
+}
